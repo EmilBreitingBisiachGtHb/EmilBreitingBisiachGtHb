@@ -5,7 +5,7 @@
 New to Github, so expect more code to come!<br>
 
 - 💻 I mainly use: Python, Matlab, SQL
-- 📊 Previously worked with macro-finance research at the Danish central bank ([Danmarks Nationalbank](https://www.nationalbanken.dk/en))
+- 📊 Previously worked within macro-finance research at the Danish central bank ([Danmarks Nationalbank](https://www.nationalbanken.dk/en))
 
 <!--
 🏦⚙️🎓🌍📈
